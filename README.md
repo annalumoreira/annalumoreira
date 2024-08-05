@@ -8,6 +8,8 @@
 
 Meu nome é Anna Luiza e recentemente passei pela transição de carreira da área de Arquitetura e Urbanismo para a área de Tecnologia. Sou uma entusiasta no mundo do desenvolvimento e estou no início da minha jornada. Atualmente estudo Tecnologia de Ciência dos Dados na UFMS e estou na posição de Desenvolvedora Full Stack no Orgão Público onde trabalho.
 
+
+
 <h4>Conecte-se comigo 🔗</h4>
 
 <a href="https://www.linkedin.com/in/anna-luiza-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
